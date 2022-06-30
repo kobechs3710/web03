@@ -1,4 +1,4 @@
-#omokuji{
+#omikuji{
     text-align: center;
     width: 294px;
     background-color: #eda;
@@ -10,7 +10,7 @@
     font-family: serif;
 }
 
-#omokuji > #output > h2{
+#omikuji > #output > h2{
     font-size: 70px;
     font-family: serif;
     margin: 0;
